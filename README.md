@@ -1,3 +1,2 @@
-b2 only new
-b2 only
+something new
 # new-repo
