@@ -1,1 +1,2 @@
+master only
 # new-repo
